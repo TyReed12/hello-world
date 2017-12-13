@@ -2,4 +2,4 @@
 just another repository
 
 
-Student in the Application Development Program at North Seattle College
+Tyler is a student in the Application Development Program at North Seattle College
